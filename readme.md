@@ -1,4 +1,4 @@
-*Watcher*
+*Static Watcher*
 
 Installation
 ============
