@@ -1,3 +1,4 @@
 Gemfile.lock
 .rvmrc
 .DS_Store
+.gitignore
