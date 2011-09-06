@@ -1,7 +1,7 @@
-*Static Watcher*
+Static Watcher
 
 Installation
-============
+
 Simply clone the repository, run a bundle install and you're all set.
 
 Usage
